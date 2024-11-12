@@ -2,7 +2,7 @@
 
 This repository holds the overall process YWCC 307-101 Team 2 took for their project. This project was for the 2024 Fall Semester and our given prompt goes as follows:
 
-New technology is now capable of communicating and making content in ways
+<pre style="background-color: lightblue; padding: 10px;">New technology is now capable of communicating and making content in ways
 comparable to humans. It’s called generative artificial intelligence (AI), and you
 can use it to excel in the workforce.
 
@@ -14,7 +14,7 @@ have more freedom to strategize, think big, and excel.
 
 Your team has been engaged by one of the largest thinktanks to help propose
 policy suggestions to help minimize the potential negative impact of bias,
-illegal use of data, and copyright protection.
+illegal use of data, and copyright protection.</pre>
 
 ## Table of Contents
 
