@@ -1,4 +1,4 @@
-# Project Name
+# Team 2
 
 This repository holds the overall process YWCC 307-101 Team 2 took for their project. This project was for the 2024 Fall Semester and our given prompt goes as follows:
 
